@@ -15,15 +15,19 @@
 1- توسط SSH به سرور خودتون متصل شوید.
 2- سپس بر اساس نوع سیستم عامل خود دستورات صحیح زیر را انتخاب کرده و وارد کرده تا مراحل نصب بصورت اتوماتیک آغاز گردد.
 
+<h2>
 برای سیستم عامل های Ubuntu و Debian
+</h2>
 
 apt-get install -y curl && curl -O https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Ubuntu-Debian.sh && bash MTProto-NodeJs-FastSetup-UD.sh
-برای سیستم عامل Centos
+
+<h2>برای سیستم عامل Centos</h2>
 
 yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Centos.sh && bash MTProto-NodeJs-FastSetup-CentOS.sh
-پاک کردن همه فایل ها و سرویس نصب شده از سرور برای نصب و راه اندازی مجدد
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Uninstall.sh && bash UnInstall.sh
+<h2>پاک کردن همه فایل ها و سرویس نصب شده از سرور برای نصب و راه اندازی مجدد</h2>
+
+<pre dir="ltr">wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Uninstall.sh && bash UnInstall.sh</pre>
 
 - در آغاز فرآیند پورت انتخابی شما را می خواهد و در صورت اینکه پورتی وارد نکنید بصورت پیشفرض پورتی تعیین میگردد.
 پس از انجام مرحله بالا در انتهای مسیر اطلاعات سرور و همچنین لینک های اتصال به پروکسی تلگرام را برای شما به نمایش در میاورد.
