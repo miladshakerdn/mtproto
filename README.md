@@ -1,6 +1,4 @@
-<div style="direction:rtl">
-  
-  <h1 dir="rtl">asdasd</h1>
+<div style="direction:rtl !important">
 
 حتما برای شما هم پیش آمده که قصد راه اندازی یک MtProto برای تلگرام را داشته باشید و از پکیج های فراوانی استفاده کرده باشید .
 
