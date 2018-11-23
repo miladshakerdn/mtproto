@@ -10,7 +10,7 @@
 
 موارد مورد نیاز: داشتن یک VPS و یا سرور اختصاصی لینوکس در خارج از ایران و داشتن یک  دسترسی SSH به VPS یا سرور اختصاصی .
 
-آموزش :
+<h1>آموزش نصب MTProto پروکسی سرور</h1>
 
 1- توسط SSH به سرور خودتون متصل شوید.
 2- سپس بر اساس نوع سیستم عامل خود دستورات صحیح زیر را انتخاب کرده و وارد کرده تا مراحل نصب بصورت اتوماتیک آغاز گردد.
@@ -19,11 +19,11 @@
 برای سیستم عامل های Ubuntu و Debian
 </h2>
 
-apt-get install -y curl && curl -O https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Ubuntu-Debian.sh && bash MTProto-NodeJs-FastSetup-UD.sh
+<pre dir="ltr">apt-get install -y curl && curl -O https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Ubuntu-Debian.sh && bash MTProto-NodeJs-FastSetup-UD.sh</pre>
 
 <h2>برای سیستم عامل Centos</h2>
 
-yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Centos.sh && bash MTProto-NodeJs-FastSetup-CentOS.sh
+<pre dir="ltr">yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Centos.sh && bash MTProto-NodeJs-FastSetup-CentOS.sh</pre>
 
 <h2>پاک کردن همه فایل ها و سرویس نصب شده از سرور برای نصب و راه اندازی مجدد</h2>
 
