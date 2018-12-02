@@ -19,15 +19,15 @@
 برای سیستم عامل های Ubuntu و Debian
 </h2>
 
-<pre dir="ltr">apt-get install -y curl && curl -O https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Ubuntu-Debian.sh && bash MTProto-NodeJs-FastSetup-UD.sh</pre>
+<pre dir="ltr">apt-get install -y curl && curl -O https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Ubuntu-Debian.sh && bash Mtproto-Ubuntu-Debian.sh</pre>
 
 <h2>برای سیستم عامل Centos</h2>
 
-<pre dir="ltr">yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Centos.sh && bash MTProto-NodeJs-FastSetup-CentOS.sh</pre>
+<pre dir="ltr">yum install wget -y && wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Centos.sh && bash Mtproto-Centos.sh</pre>
 
 <h2>پاک کردن همه فایل ها و سرویس نصب شده از سرور برای نصب و راه اندازی مجدد</h2>
 
-<pre dir="ltr">wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Uninstall.sh && bash UnInstall.sh</pre>
+<pre dir="ltr">wget -N --no-check-certificate https://raw.githubusercontent.com/vahidmajidi/mtproto/master/Mtproto-Uninstall.sh && bash Mtproto-Uninstall.sh</pre>
 
 - در آغاز فرآیند پورت انتخابی شما را می خواهد و در صورت اینکه پورتی وارد نکنید بصورت پیشفرض پورتی تعیین میگردد.
 پس از انجام مرحله بالا در انتهای مسیر اطلاعات سرور و همچنین لینک های اتصال به پروکسی تلگرام را برای شما به نمایش در میاورد.
