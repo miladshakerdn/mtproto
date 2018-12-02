@@ -28,6 +28,13 @@ green='\033[0;32m'
 yellow='\033[0;33m'
 plain='\033[0m'
 
+# Print Welcome Message
+clear
+echo "---------------------------------------------"
+echo "  Install MTProto For Telegram with NodeJs"
+echo "---------------------------------------------"
+echo ""
+
 
 if [ -f "/etc/secret" ]; then 
 	IP=$(curl -4 -s ip.sb)
