@@ -32,7 +32,7 @@ plain='\033[0m'
 clear
 echo "---------------------------------------------"
 echo "  Install MTProto For Telegram with NodeJs"
-echo "  Author: ZarinNegah"
+echo "  Author: vahidmajidi"
 echo "  URL: http://Fastsetup.MTProtoServer.ir/"
 echo "  Telegram: https://t.me/mtp_2018"
 echo "---------------------------------------------"
