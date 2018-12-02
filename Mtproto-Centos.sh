@@ -1,5 +1,5 @@
 ##################################################
-# VMS #
+# Anything wrong? Find me via telegram:@MTP_2018 #
 ##################################################
 
 #!/usr/bin/env bash
@@ -36,6 +36,9 @@ plain='\033[0m'
 clear
 echo "---------------------------------------------"
 echo "  Install MTProto For Telegram with NodeJs"
+echo "  Author: ZarinNegah"
+echo "  URL: http://Fastsetup.MTProtoServer.ir/"
+echo "  Telegram: https://t.me/mtp_2018"
 echo "---------------------------------------------"
 echo ""
 
