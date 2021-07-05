@@ -156,4 +156,5 @@ echo -e "TG Proxy link：${green}https://t.me/proxy?server=${IP}&port=${uport}&s
 echo ""
 echo -e "TG Proxy link：${green}tg://proxy?server=${IP}&port=${uport}&secret=${SECRET}${plain}"
 echo ""
-
+echo "Create By VahidMajidi.com"
+echo ""
