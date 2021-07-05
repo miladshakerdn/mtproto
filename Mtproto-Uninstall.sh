@@ -18,6 +18,7 @@ rm -rf JSMTProxy
 
 
 clear
-echo "Successful uninstallation！"
+echo "Successful uninstallation！| VahidMajidi.com"
 
 rm -rf UnInstall.sh
+
